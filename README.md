@@ -8,7 +8,6 @@
 - Java
 - Intellij idea
 - Gradle
-- Allure
 
 
 ### Prerequisites
